@@ -6,9 +6,7 @@
 
 ## Hello there, I am Prince Mehra
 
-I build AI tools that take real work off people's plates. My latest is an assistant that runs your whole Google Workspace from a chat window. Tell it "book a call at 3pm" or "summarise my inbox" and it handles Gmail, Calendar, Drive, Docs, Sheets, Slides and Forms for you, powered by LangGraph agents on Python and FastAPI. I've also shipped a document assistant that answers questions from your own files and creates or edits Word, Excel and PowerPoint documents just from what you type (RAG and a vector database on Next.js). A third tool turns messy PDFs into clean, AI-ready text, so the models reading them use fewer tokens and cost less to run.
-Before that, I rebuilt a company's core system to run faster on 75% less code (PostgreSQL, AWS, Terraform) and built a real-time cloud app on MERN and AWS. I'm studying for my B.Tech at SGSITS Indore, hold Google Cloud AI certifications, and I'm open to AI Engineer and Forward Deployed Engineer roles.
-## Connect with me
+I build AI tools that save people real time: an assistant that runs your whole Google Workspace from chat (LangGraph, FastAPI), a document assistant that answers from your files and edits Word, Excel and PowerPoint for you (RAG, Next.js), and a PDF cleaner that cuts AI token costs. Before that I rebuilt a company's core system on 75% less code (PostgreSQL, AWS, Terraform). B.Tech at SGSITS Indore, Google Cloud AI certified, and open to AI Engineer and Forward Deployed roles.
 
 <p>
   <a href="https://portfolio-ruddy-seven-7slackrg3a.vercel.app/about"><img src="https://img.shields.io/badge/Website-Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio" /></a>
