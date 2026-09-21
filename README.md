@@ -6,8 +6,8 @@
 
 ## Hello there, I am Prince Mehra
 
-AI Engineer who builds practical AI tools that save time and cut manual work. I've built and launched three AI applications: a smart assistant that manages your entire Google Workspace — Gmail, Calendar, Drive, Docs, Sheets, Slides, Forms — through simple chat commands (Python, FastAPI, LangGraph agents); a tool that answers questions from your own documents and even creates and edits Microsoft Office files like Word, Excel, and PowerPoint just by typing (RAG + vector database on Next.js); and a system that converts messy PDFs into clean, AI-ready format that cuts token usage and lowers AI costs (Python). In an earlier role, I rebuilt a company's core system to run faster with 75% less code (PostgreSQL, AWS, Terraform), and built a cloud-native real-time app (MERN + AWS). Skilled in RAG, AI agents, Python, FastAPI, and LLM integration. Pursuing B.Tech at SGSITS Indore with Google Cloud AI certifications. Open to AI Engineer and Forward Deployed roles.
-
+I build AI tools that take real work off people's plates. My latest is an assistant that runs your whole Google Workspace from a chat window. Tell it "book a call at 3pm" or "summarise my inbox" and it handles Gmail, Calendar, Drive, Docs, Sheets, Slides and Forms for you, powered by LangGraph agents on Python and FastAPI. I've also shipped a document assistant that answers questions from your own files and creates or edits Word, Excel and PowerPoint documents just from what you type (RAG and a vector database on Next.js). A third tool turns messy PDFs into clean, AI-ready text, so the models reading them use fewer tokens and cost less to run.
+Before that, I rebuilt a company's core system to run faster on 75% less code (PostgreSQL, AWS, Terraform) and built a real-time cloud app on MERN and AWS. I'm studying for my B.Tech at SGSITS Indore, hold Google Cloud AI certifications, and I'm open to AI Engineer and Forward Deployed Engineer roles.
 ## Connect with me
 
 <p>
