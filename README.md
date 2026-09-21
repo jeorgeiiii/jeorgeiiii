@@ -6,7 +6,7 @@
 
 ## Hello there, I am Prince Mehra
 
-I build AI tools that save people real time: an assistant that runs your whole Google Workspace from chat (LangGraph, FastAPI), a document assistant that answers from your files and edits Word, Excel and PowerPoint for you (RAG, Next.js), and a PDF cleaner that cuts AI token costs. Before that I rebuilt a company's core system on 75% less code (PostgreSQL, AWS, Terraform). B.Tech at SGSITS Indore, Google Cloud AI certified, and open to AI Engineer and Forward Deployed roles.
+Full-stack developer working across AI, cloud and DevOps. I build AI tools that save people real time: an assistant that runs your whole Google Workspace from chat (LangGraph, FastAPI), a document assistant that answers from your files and edits Word, Excel and PowerPoint for you (RAG, Next.js), and a PDF cleaner that cuts AI token costs. On the cloud side, I rebuilt a company's core system on 75% less code with infrastructure as code (PostgreSQL, AWS, Terraform) and built a real-time cloud-native app on MERN and AWS. B.Tech at SGSITS Indore, Google Cloud AI certified, and open to AI Engineer, Full-Stack, Cloud and Forward Deployed roles.
 
 ## Connect with me
 
