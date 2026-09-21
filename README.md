@@ -6,8 +6,7 @@
 
 ## Hello there, I am Prince Mehra
 
-I'm a Full-Stack Developer (MERN) and Android Developer (Flutter, Java) from Indore, India.
-I also work with C++, Python, Go and PostgreSQL, build scalable web and mobile apps, and contribute to open source.
+AI Engineer who builds practical AI tools that save time and cut manual work. I've built and launched three AI applications: a smart assistant that manages your entire Google Workspace — Gmail, Calendar, Drive, Docs, Sheets, Slides, Forms — through simple chat commands (Python, FastAPI, LangGraph agents); a tool that answers questions from your own documents and even creates and edits Microsoft Office files like Word, Excel, and PowerPoint just by typing (RAG + vector database on Next.js); and a system that converts messy PDFs into clean, AI-ready format that cuts token usage and lowers AI costs (Python). In an earlier role, I rebuilt a company's core system to run faster with 75% less code (PostgreSQL, AWS, Terraform), and built a cloud-native real-time app (MERN + AWS). Skilled in RAG, AI agents, Python, FastAPI, and LLM integration. Pursuing B.Tech at SGSITS Indore with Google Cloud AI certifications. Open to AI Engineer and Forward Deployed roles.
 
 ## Connect with me
 
