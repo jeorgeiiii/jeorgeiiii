@@ -22,8 +22,7 @@ ORDER = ["winter", "spring", "summer", "monsoon", "autumn"]          # circular 
 SLOTS = ["winter", "spring", "summer", "monsoon", "autumn", "winter"]  # Jan ... Dec
 MONTHS = {"winter": "Dec - Jan", "spring": "Feb - Mar", "summer": "Apr - Jun",
           "monsoon": "Jul - Sep", "autumn": "Oct - Nov"}
-COLOR = {"winter": "3b5bdb", "spring": "4c9a2a", "summer": "e8590c",
-         "monsoon": "1c7c8c", "autumn": "c2255c"}
+COLOR = {s: "30363d" for s in ["winter", "spring", "summer", "monsoon", "autumn"]}  # grey arrows
 SEASON_BY_MONTH = {12: "winter", 1: "winter", 2: "spring", 3: "spring", 4: "summer", 5: "summer",
                    6: "summer", 7: "monsoon", 8: "monsoon", 9: "monsoon", 10: "autumn", 11: "autumn"}
 START, END = "<!-- SEASON:START -->", "<!-- SEASON:END -->"
